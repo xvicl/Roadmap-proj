@@ -1,4 +1,4 @@
 # Roadmap-proj
 
 First project submisson:
-🔗 [Live Project Link](https://xvicl.github.io/Roadmap-proj/)
+🔗 [Live Project Link](https://github.com/xvicl/Roadmap-proj)
