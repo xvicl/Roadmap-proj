@@ -1,0 +1,55 @@
+/*this selects all the items :  *{} */ 
+body{
+    background-color: #f1ddc8;
+    background-image: url(bookstore.jpg);
+}
+header {
+    background-color: rgb(165, 198, 34);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    background-color: rgb(165, 198, 34);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+}
+
+
+#poster{
+    border: 3px;
+    border-color: #fa8072;
+    border-style: solid;
+}
+/* Reset basic spacing */
+
+#movie-name {
+    color: #ac564d;
+    text-shadow: 1px 1px 2px rgb(160, 155, 155);
+            /* x axis,y axis,blur,color */
+    font-style: italic;
+    font-size: 13px;
+} /*apparently this is what comments looks like in css*/
+
+#box-seperator {
+    width: 150px;
+    height: 10px;
+    background-color: #a5c622;
+    box-shadow: 3px 3px 4px rgb(182, 180, 180);
+}
+
+header, 
+footer{
+    align-items: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+/*to be continued
+.hf-items{
+   
+    align-items: center;
+}
